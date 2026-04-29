@@ -32,7 +32,7 @@
       "display_name": "武田 信玄",
       "blocks": [
         { "kana": "た", "model": "ta" }, { "kana": "け", "model": "ke" }, { "kana": "だ", "model": "da" },
-        { "kana": "しん", "model": "shin" }, { "kana": "げん", "model": "gen" }
+        { "kana": "しん", "model": "shin" }, { "kana": "げ", "model": "ge" }, { "kana": "ん", "model": "go" }
       ],
       "category": "戦国"
     },
@@ -41,7 +41,7 @@
       "display_name": "上杉 謙信",
       "blocks": [
         { "kana": "う", "model": "u" }, { "kana": "え", "model": "e" }, { "kana": "す", "model": "su" }, { "kana": "ぎ", "model": "gi" },
-        { "kana": "け", "model": "ke" }, { "kana": "ん", "model": "n" }, { "kana": "しん", "model": "shin" }
+        { "kana": "け", "model": "ke" }, { "kana": "ん", "model": "n" }, { "kana": "し", "model": "shi" }, { "kana": "ん", "model": "n" }
       ],
       "category": "戦国"
     },
@@ -58,7 +58,7 @@
       "id": 7,
       "display_name": "源 義経",
       "blocks": [
-        { "kana": "み", "model": "mi" }, { "kana": "な", "model": "na" }, { "kana": "も", "model": "mo" }, { "kana": "と", "model": "to" },
+        { "kana": "み", "model": "mi" }, { "kana": "な", "model": "na" }, { "kana": "も", "model": "mo" }, { "kana": "と", "model": "to" }, { "kana": "の", "model": "no" },
         { "kana": "よ", "model": "yo" }, { "kana": "し", "model": "shi" }, { "kana": "つ", "model": "tsu" }, { "kana": "ね", "model": "ne" }
       ],
       "category": "平安・鎌倉"
@@ -67,7 +67,7 @@
       "id": 8,
       "display_name": "平 清盛",
       "blocks": [
-        { "kana": "た", "model": "ta" }, { "kana": "い", "model": "i" }, { "kana": "ら", "model": "ra" },
+        { "kana": "た", "model": "ta" }, { "kana": "い", "model": "i" }, { "kana": "ら", "model": "ra" }, { "kana": "の", "model": "no" },
         { "kana": "き", "model": "ki" }, { "kana": "よ", "model": "yo" }, { "kana": "も", "model": "mo" }, { "kana": "り", "model": "ri" }
       ],
       "category": "平安・鎌倉"
@@ -76,7 +76,7 @@
       "id": 9,
       "display_name": "聖徳 太子",
       "blocks": [
-        { "kana": "しょう", "model": "sho" }, { "kana": "と", "model": "to" }, { "kana": "く", "model": "ku" },
+        { "kana": "しょ", "model": "sho" }, { "kana": "う", "model": "u" }, { "kana": "と", "model": "to" }, { "kana": "く", "model": "ku" },
         { "kana": "た", "model": "ta" }, { "kana": "い", "model": "i" }, { "kana": "し", "model": "shi" }
       ],
       "category": "古代"
@@ -86,7 +86,7 @@
       "display_name": "坂本 龍馬",
       "blocks": [
         { "kana": "さ", "model": "sa" }, { "kana": "か", "model": "ka" }, { "kana": "も", "model": "mo" }, { "kana": "と", "model": "to" },
-        { "kana": "りょう", "model": "ryo" }, { "kana": "ま", "model": "ma" }
+        { "kana": "りょ", "model": "ryo" },  { "kana": "う", "model": "u" }, { "kana": "ま", "model": "ma" }
       ],
       "category": "幕末"
     },
@@ -94,7 +94,7 @@
       "id": 11,
       "display_name": "西郷 隆盛",
       "blocks": [
-        { "kana": "さ", "model": "sa" }, { "kana": "い", "model": "i" }, { "kana": "ごう", "model": "go" },
+        { "kana": "さ", "model": "sa" }, { "kana": "い", "model": "i" }, { "kana": "ご", "model": "go" }, { "kana": "う", "model": "u" },
         { "kana": "た", "model": "ta" }, { "kana": "か", "model": "ka" }, { "kana": "も", "model": "mo" }, { "kana": "り", "model": "ri" }
       ],
       "category": "幕末"
@@ -112,7 +112,7 @@
       "id": 13,
       "display_name": "北条 時宗",
       "blocks": [
-        { "kana": "ほ", "model": "ho" }, { "kana": "う", "model": "u" }, { "kana": "じょう", "model": "jo" },
+        { "kana": "ほ", "model": "ho" }, { "kana": "う", "model": "u" }, { "kana": "じょ", "model": "jo" }, { "kana": "う", "model": "u" },
         { "kana": "と", "model": "to" }, { "kana": "き", "model": "ki" }, { "kana": "む", "model": "mu" }, { "kana": "ね", "model": "ne" }
       ],
       "category": "平安・鎌倉"
