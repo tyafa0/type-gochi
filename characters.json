@@ -2,129 +2,129 @@
   "characters": [
     {
       "id": 1,
-      "display_name": "ココア / 保登 心愛",
+      "display_name": "織田 信長",
       "blocks": [
-        { "kana": "ほ", "model": "ho" }, { "kana": "と", "model": "to" },
-        { "kana": "こ", "model": "ko" }, { "kana": "こ", "model": "ko" }, { "kana": "あ", "model": "a" }
+        { "kana": "お", "model": "o" }, { "kana": "だ", "model": "da" },
+        { "kana": "の", "model": "no" }, { "kana": "ぶ", "model": "bu" }, { "kana": "な", "model": "na" }, { "kana": "が", "model": "ga" }
       ],
-      "category": "Main"
+      "category": "戦国"
     },
     {
       "id": 2,
-      "display_name": "チノ / 香風 智乃",
+      "display_name": "豊臣 秀吉",
       "blocks": [
-        { "kana": "か", "model": "ka" }, { "kana": "ふ", "model": "fu" },
-        { "kana": "う", "model": "u" }, { "kana": "ち", "model": "chi" }, { "kana": "の", "model": "no" }
+        { "kana": "と", "model": "to" }, { "kana": "よ", "model": "yo" }, { "kana": "と", "model": "to" }, { "kana": "み", "model": "mi" },
+        { "kana": "ひ", "model": "hi" }, { "kana": "で", "model": "de" }, { "kana": "よ", "model": "yo" }, { "kana": "し", "model": "shi" }
       ],
-      "category": "Main"
+      "category": "戦国"
     },
     {
       "id": 3,
-      "display_name": "リゼ / 天々座 理世",
+      "display_name": "徳川 家康",
       "blocks": [
-        { "kana": "て", "model": "te" }, { "kana": "で", "model": "de" },
-        { "kana": "ざ", "model": "za" }, { "kana": "り", "model": "ri" }, { "kana": "ぜ", "model": "ze" }
+        { "kana": "と", "model": "to" }, { "kana": "く", "model": "ku" }, { "kana": "が", "model": "ga" }, { "kana": "わ", "model": "wa" },
+        { "kana": "い", "model": "i" }, { "kana": "え", "model": "e" }, { "kana": "や", "model": "ya" }, { "kana": "す", "model": "su" }
       ],
-      "category": "Main"
+      "category": "戦国"
     },
     {
       "id": 4,
-      "display_name": "千夜 / 宇治松 千夜",
+      "display_name": "武田 信玄",
       "blocks": [
-        { "kana": "う", "model": "u" }, { "kana": "じ", "model": "ji" }, { "kana": "ま", "model": "ma" },
-        { "kana": "つ", "model": "tsu" }, { "kana": "ち", "model": "chi" }, { "kana": "や", "model": "ya" }
+        { "kana": "た", "model": "ta" }, { "kana": "け", "model": "ke" }, { "kana": "だ", "model": "da" },
+        { "kana": "しん", "model": "shin" }, { "kana": "げん", "model": "gen" }
       ],
-      "category": "Main"
+      "category": "戦国"
     },
     {
       "id": 5,
-      "display_name": "シャロ / 桐間 紗路",
+      "display_name": "上杉 謙信",
       "blocks": [
-        { "kana": "き", "model": "ki" }, { "kana": "り", "model": "ri" }, { "kana": "ま", "model": "ma" },
-        { "kana": "しゃ", "model": "sha" }, { "kana": "ろ", "model": "ro" }
+        { "kana": "う", "model": "u" }, { "kana": "え", "model": "e" }, { "kana": "す", "model": "su" }, { "kana": "ぎ", "model": "gi" },
+        { "kana": "け", "model": "ke" }, { "kana": "ん", "model": "n" }, { "kana": "しん", "model": "shin" }
       ],
-      "category": "Main"
+      "category": "戦国"
     },
     {
       "id": 6,
-      "display_name": "マヤ / 条河 麻耶",
+      "display_name": "伊達 政宗",
       "blocks": [
-        { "kana": "じょ", "model": "jo" }, { "kana": "う", "model": "u" },
-        { "kana": "が", "model": "ga" }, { "kana": "ま", "model": "ma" }, { "kana": "や", "model": "ya" }
+        { "kana": "だ", "model": "da" }, { "kana": "て", "model": "te" },
+        { "kana": "ま", "model": "ma" }, { "kana": "さ", "model": "sa" }, { "kana": "む", "model": "mu" }, { "kana": "ね", "model": "ne" }
       ],
-      "category": "Main"
+      "category": "戦国"
     },
     {
       "id": 7,
-      "display_name": "メグ / 奈津 恵",
+      "display_name": "源 義経",
       "blocks": [
-        { "kana": "な", "model": "na" }, { "kana": "つ", "model": "tsu" },
-        { "kana": "め", "model": "me" }, { "kana": "ぐ", "model": "gu" }, { "kana": "み", "model": "mi" }
+        { "kana": "み", "model": "mi" }, { "kana": "な", "model": "na" }, { "kana": "も", "model": "mo" }, { "kana": "と", "model": "to" },
+        { "kana": "よ", "model": "yo" }, { "kana": "し", "model": "shi" }, { "kana": "つ", "model": "tsu" }, { "kana": "ね", "model": "ne" }
       ],
-      "category": "Main"
+      "category": "平安・鎌倉"
     },
     {
       "id": 8,
-      "display_name": "青山ブルーマウンテン / 青山 翠",
+      "display_name": "平 清盛",
       "blocks": [
-        { "kana": "あ", "model": "a" }, { "kana": "お", "model": "o" }, { "kana": "や", "model": "ya" },
-        { "kana": "ま", "model": "ma" }, { "kana": "み", "model": "mi" }, { "kana": "ど", "model": "do" }, { "kana": "り", "model": "ri" }
+        { "kana": "た", "model": "ta" }, { "kana": "い", "model": "i" }, { "kana": "ら", "model": "ra" },
+        { "kana": "き", "model": "ki" }, { "kana": "よ", "model": "yo" }, { "kana": "も", "model": "mo" }, { "kana": "り", "model": "ri" }
       ],
-      "category": "Sub"
+      "category": "平安・鎌倉"
     },
     {
       "id": 9,
-      "display_name": "モカ / 保登 モカ",
+      "display_name": "聖徳 太子",
       "blocks": [
-        { "kana": "ほ", "model": "ho" }, { "kana": "と", "model": "to" },
-        { "kana": "も", "model": "mo" }, { "kana": "か", "model": "ka" }
+        { "kana": "しょう", "model": "sho" }, { "kana": "と", "model": "to" }, { "kana": "く", "model": "ku" },
+        { "kana": "た", "model": "ta" }, { "kana": "い", "model": "i" }, { "kana": "し", "model": "shi" }
       ],
-      "category": "Sub"
+      "category": "古代"
     },
     {
       "id": 10,
-      "display_name": "フユ / 風衣葉 冬優",
+      "display_name": "坂本 龍馬",
       "blocks": [
-        { "kana": "ふ", "model": "fu" }, { "kana": "い", "model": "i" }, { "kana": "ば", "model": "ba" },
-        { "kana": "ふ", "model": "fu" }, { "kana": "ゆ", "model": "yu" }
+        { "kana": "さ", "model": "sa" }, { "kana": "か", "model": "ka" }, { "kana": "も", "model": "mo" }, { "kana": "と", "model": "to" },
+        { "kana": "りょう", "model": "ryo" }, { "kana": "ま", "model": "ma" }
       ],
-      "category": "Main"
+      "category": "幕末"
     },
     {
       "id": 11,
-      "display_name": "エル / 神沙 映月",
+      "display_name": "西郷 隆盛",
       "blocks": [
-        { "kana": "じ", "model": "ji" }, { "kana": "ん", "model": "n" },
-        { "kana": "じゃ", "model": "ja" }, { "kana": "え", "model": "e" }, { "kana": "る", "model": "ru" }
+        { "kana": "さ", "model": "sa" }, { "kana": "い", "model": "i" }, { "kana": "ごう", "model": "go" },
+        { "kana": "た", "model": "ta" }, { "kana": "か", "model": "ka" }, { "kana": "も", "model": "mo" }, { "kana": "り", "model": "ri" }
       ],
-      "category": "Main"
+      "category": "幕末"
     },
     {
       "id": 12,
-      "display_name": "ナツメ / 神沙 夏明",
+      "display_name": "福沢 諭吉",
       "blocks": [
-        { "kana": "じ", "model": "ji" }, { "kana": "ん", "model": "n" }, { "kana": "じゃ", "model": "ja" },
-        { "kana": "な", "model": "na" }, { "kana": "つ", "model": "tsu" }, { "kana": "め", "model": "me" }
+        { "kana": "ふ", "model": "fu" }, { "kana": "く", "model": "ku" }, { "kana": "ざ", "model": "za" }, { "kana": "わ", "model": "wa" },
+        { "kana": "ゆ", "model": "yu" }, { "kana": "き", "model": "ki" }, { "kana": "ち", "model": "chi" }
       ],
-      "category": "Main"
+      "category": "明治"
     },
     {
       "id": 13,
-      "display_name": "ユラ / 狩手 結良",
+      "display_name": "北条 時宗",
       "blocks": [
-        { "kana": "か", "model": "ka" }, { "kana": "れ", "model": "re" },
-        { "kana": "で", "model": "de" }, { "kana": "ゆ", "model": "yu" }, { "kana": "ら", "model": "ra" }
+        { "kana": "ほ", "model": "ho" }, { "kana": "う", "model": "u" }, { "kana": "じょう", "model": "jo" },
+        { "kana": "と", "model": "to" }, { "kana": "き", "model": "ki" }, { "kana": "む", "model": "mu" }, { "kana": "ね", "model": "ne" }
       ],
-      "category": "Sub"
+      "category": "平安・鎌倉"
     },
     {
       "id": 14,
-      "display_name": "凛 / 真手 凛",
+      "display_name": "明智 光秀",
       "blocks": [
-        { "kana": "ま", "model": "ma" }, { "kana": "て", "model": "te" },
-        { "kana": "り", "model": "ri" }, { "kana": "ん", "model": "n" }
+        { "kana": "あ", "model": "a" }, { "kana": "け", "model": "ke" }, { "kana": "ち", "model": "chi" },
+        { "kana": "み", "model": "mi" }, { "kana": "つ", "model": "tsu" }, { "kana": "ひ", "model": "hi" }, { "kana": "で", "model": "de" }
       ],
-      "category": "Sub"
+      "category": "戦国"
     }
   ]
 }
